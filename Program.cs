@@ -14,7 +14,8 @@ namespace project
                 {
                     Console.Write(item1 == 0 ? '-':'Q');
                 }
-                Console.WriteLine();
+                Console.WriteLine("reut reut");
+
             }
         
         }
